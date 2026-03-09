@@ -2,7 +2,6 @@
 set -e
 
 sudo apt update
-sudo apt upgrade -y
 
 sudo apt install -y fonts-arphic-uming \
 fonts-noto-cjk \
